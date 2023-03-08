@@ -6,7 +6,7 @@ As a passionate developer, I embrace the principles of Agile and Software Crafti
 
 Besides evolving as a software craftsman through continuous improvement, my career goal is to propagate the values I believe in, contributing positively towards the evolution of the professional developer community.
 
-- 💻 I'm currently working as a Tech Lead with [Agi](https://agi.com.br)
+- 💻 I'm currently working with [Sicredi](https://sicredi.com.br/) in an exciting project as a Senior Software Engineer
 - 🥷 Solving code Katas ([FizzBuzz](https://github.com/samueldcs/fizzbuzz), [Bank](https://github.com/samueldcs/katalyst-bank), [Gilded Rose](https://github.com/samueldcs/gildd-rose), [Corporate Hotel Booking](https://github.com/samueldcs/corporate-hotel-booking)) is one of my favorite activities
 - 🔡 Java and TypeScript are the languages I'm currently working with, but Kotlin and Clojure are also among my top picks! 
 - 📚 I'm an avid book reader. Some of my favorite (technical) titles are:
